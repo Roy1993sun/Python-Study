@@ -1,0 +1,26 @@
+'''
+简单计算
+'''
+
+addition = 72 + 23 	#加法
+subtraction = 108 - 204 	#减法
+multiplication = 108 * 0.5 	#乘法
+division = 108 / 9 	#除法
+Exponentiation eight = 2 ** 3 	#乘方（求幂）
+Module spam =3%2 	#模运算 求得余数
+
+# 计算餐厅费用
+meal = 44.50
+tax = 0.0675
+tip = 0.15
+
+meal = meal + meal * tax
+total = meal + meal * tip
+
+print("%.2f" % total) #保留两位小数
+print total 
+
+————2015年3月30日 04:22:01————
+
+
+
